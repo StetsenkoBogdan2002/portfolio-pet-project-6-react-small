@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portfolio-pet-project-6-react-small/static/css/main.b9e36637.css",
+    "main.js": "/portfolio-pet-project-6-react-small/static/js/main.472489b4.js",
+    "index.html": "/portfolio-pet-project-6-react-small/index.html",
+    "main.b9e36637.css.map": "/portfolio-pet-project-6-react-small/static/css/main.b9e36637.css.map",
+    "main.472489b4.js.map": "/portfolio-pet-project-6-react-small/static/js/main.472489b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9e36637.css",
+    "static/js/main.472489b4.js"
+  ]
+}
